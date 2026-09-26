@@ -6,8 +6,10 @@ from pathlib import Path
 
 # 品詞変換テーブル ZLex -> Google
 POS_MAP = {
-    "PROPER_NOUN": "固有名詞",
-    "NOUN": "名詞"
+    "PERSON": "人名",
+    "LOCATION": "地名",
+    "NOUN": "名詞",
+    "PROPER_NOUN": "固有名詞"
 }
 
 def convert_google(input_file: str, target_tag: str | None = None):
