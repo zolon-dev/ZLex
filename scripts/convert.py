@@ -51,7 +51,7 @@ def convert_google(input_file: str, target_tag: str | None = None):
                 print(f"必須項目が足りない {row}")
                 continue
 
-            print(f"{row}")
+            # print(f"{row}")
             # 書いて無い項目は空文字にする
             reading = row[0]
             word = row[1]
@@ -74,7 +74,21 @@ def convert_google(input_file: str, target_tag: str | None = None):
             # 品詞変換処理(不明なposは名詞扱い)
             google_pos = POS_MAP.get(pos, "名詞")
 
+            # print(f"出力予定: {row}")
+
             # 書き込み
+            writer.writerow([
+                reading,
+                word,
+                google_pos,
+                comment
+            ])
+
+            converted_count += 1 # 出力カウント
+
+
+    tag_info = f" (タグフィルタ: '{target_tag}')" if target_tag else ""
+    print(f"生成完了: {output_path} ({converted_count}件出力){tag_info}")
 
 
 
