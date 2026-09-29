@@ -1,0 +1,63 @@
+name: Convert TSV to IME Dictionaries
+
+run-name: Convert TSV to IME Dictionaries
+on: 
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**/*.tsv'
+
+# リポジトリに書き込む権限
+permissions:
+  contents: write
+
+jobs:
+  convert-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # コード取得
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      # 変更されたTSV取得
+      - name: Get changed TSV files
+        id: changed-files
+        uses: tj-actions/changed-files@v47
+        with:
+          files: |
+            data/**/*.tsv
+
+      # python実行
+      - name: Run convert script
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            python scripts/convert.py "$file"
+          done
+
+      - name: Check ls
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            # ファイル名だけ取得
+            filename=$(basename "$file")
+
+            # 拡張子を抜く
+            stem="${filename%.*}"
+
+            ls dist/"$stem"
+          done
+
+      - name: Deploy to generated branch
+        if: steps.changed-files.outputs.any_changed == 'true'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: generated
+          keep_files: true
+          enable_jekyll: true
