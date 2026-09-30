@@ -141,7 +141,13 @@ def convert_all(input_file: str, target_tag: str | None = None, is_ci: bool = Fa
                 # 空行スキップ
                 if not row:
                     continue
-                elif len(row) < 3: # 3個は必須なのでなかったらエラースキップ
+
+                # コメント行スキップ(#か!を認識)
+                first_col = row[0].strip()
+                if first_col.startswith("#") or first_col.startswith("!"):
+                    continue
+
+                if len(row) < 3: # 3個は必須なのでなかったらエラースキップ
                     print(f"必須項目が足りない {row}")
                     continue
 
