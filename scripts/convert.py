@@ -36,7 +36,7 @@ IME_CONFIGS = {
     "atok": {
         "name": "ATOK",
         "filename_suffix": "_atok.txt",
-        "encoding": "cp932", # Shift_JIS
+        "encoding": "utf-16",
         "lineterminator": "\r\n",
         "delimiter": "\t",
         "header": "!!ATOK_TANGO_TEXT_HEADER_1\r\n",
