@@ -1,3 +1,6 @@
+#-----------
+# にじさんじ
+#-----------
 いちから	いちから株式会社	PROPER_NOUN	現ANYCOLOR株式会社 にじさんじ運営	企業,にじさんじ
 えにから	ANYCOLOR株式会社	PROPER_NOUN	にじさんじ運営 旧いちから株式会社	企業,にじさんじ
 えにーからー	ANYCOLOR株式会社	PROPER_NOUN	にじさんじ運営 旧いちから株式会社	企業,にじさんじ
@@ -284,3 +287,208 @@
 ぽめろぱんち	ぽめろ・ぱんち	PERSON	にじさんじ ぽっぷん・パーラー	企業,にじさんじ
 かみながたいが	神永タイガ	PERSON	にじさんじ RhyZyGy	企業,にじさんじ
 やまだりゅういちろう	山田龍一郎	PERSON	にじさんじ RhyZyGy	企業,にじさんじ
+
+#-----------
+# ホロライブ
+#-----------
+かばー	カバー株式会社	PROPER_NOU	ホロライブ運営会社	企業,ホロライブ
+ほろらいぶぷろだくしょん	ホロライブプロダクション	PROPER_NOU	ホロライブ運営事務所	企業,ホロライブ
+ほろらいぶ	ホロライブ	PROPER_NOU	女性VTuberグループ	企業,ホロライブ
+ほろすたーず	ホロスターズ	PROPER_NOU	男性VTuberグループ	企業,ホロライブ
+ほろらいぶ	hololive	PROPER_NOU	ホロライブグループ統合名称	企業,ホロライブ
+ときのそら	ときのそら	PERSON	ホロライブ0期生	企業,ホロライブ
+ろぼこさん	ロボ子さん	PERSON	ホロライブ0期生	企業,ホロライブ
+あずき	AZKi	PERSON	ホロライブ0期生	企業,ホロライブ
+さくらみこ	さくらみこ	PERSON	ホロライブ0期生	企業,ホロライブ
+ほしまちすいせい	星街すいせい	PERSON	ホロライブ0期生	企業,ホロライブ
+あき	アキ・ローゼンタール	PERSON	ホロライブ1期生	企業,ホロライブ
+あきろーぜんたーる	アキ・ローゼンタール	PERSON	ホロライブ1期生	企業,ホロライブ
+あかいはあと	赤井はあと	PERSON	ホロライブ1期生	企業,ホロライブ
+しらかみふぶき	白上フブキ	PERSON	ホロライブ1期生 ホロライブゲーマーズ	企業,ホロライブ
+なついろまつり	夏色まつり	PERSON	ホロライブ1期生	企業,ホロライブ
+ひとみくりす	人見クリス	PERSON	ホロライブ1期生	企業,ホロライブ
+よぞらめる	夜空メル	PERSON	ホロライブ1期生	企業,ホロライブ
+ひゃっきあやめ	百鬼あやめ	PERSON	ホロライブ2期生 なきりあやめの誤り	企業,ホロライブ
+なきりあやめ	百鬼あやめ	PERSON	ホロライブ2期生	企業,ホロライブ
+ゆずきちょこ	癒月ちょこ	PERSON	ホロライブ2期生	企業,ホロライブ
+おおぞらすばる	大空スバル	PERSON	ホロライブ2期生	企業,ホロライブ
+みなとあくあ	湊あくあ	PERSON	ホロライブ2期生	企業,ホロライブ
+むらさきしおん	紫咲シオン	PERSON	ホロライブ2期生	企業,ホロライブ
+おおかみみお	大神ミオ	PERSON	ホロライブゲーマーズ	企業,ホロライブ
+おかゆ	猫又おかゆ	PERSON	ホロライブゲーマーズ	企業,ホロライブ
+ねこまたおかゆ	猫又おかゆ	PERSON	ホロライブゲーマーズ	企業,ホロライブ
+ころね	戌神ころね	PERSON	ホロライブゲーマーズ	企業,ホロライブ
+いぬがみころね	戌神ころね	PERSON	ホロライブゲーマーズ	企業,ホロライブ
+うさだぺこら	兎田ぺこら	PERSON	ホロライブ3期生 ホロライブファンタジー	企業,ホロライブ
+しらぬいふれあ	不知火フレア	PERSON	ホロライブ3期生 ホロライブファンタジー	企業,ホロライブ
+しろがねのえる	白銀ノエル	PERSON	ホロライブ3期生 ホロライブファンタジー	企業,ホロライブ
+ほうしょうまりん	宝鐘マリン	PERSON	ホロライブ3期生 ホロライブファンタジー	企業,ホロライブ
+るしあ	潤羽るしあ	PERSON	ホロライブ3期生 ホロライブファンタジー	企業,ホロライブ
+うるはるしあ	潤羽るしあ	PERSON	ホロライブ3期生 ホロライブファンタジー	企業,ホロライブ
+つのまきわため	角巻わため	PERSON	ホロライブ4期生 ホロふぉーす	企業,ホロライブ
+とこやみとわ	常闇トワ	PERSON	ホロライブ4期生 ホロふぉーす	企業,ホロライブ
+るーな	姫森ルーナ	PERSON	ホロライブ4期生 ホロふぉーす	企業,ホロライブ
+ひめもりるーな	姫森ルーナ	PERSON	ホロライブ4期生 ホロふぉーす	企業,ホロライブ
+きりゅうここ	桐生ココ	PERSON	ホロライブ4期生 ホロふぉーす	企業,ホロライブ
+あまねかなた	天音かなた	PERSON	ホロライブ4期生 ホロふぉーす	企業,ホロライブ
+らみぃ	雪花ラミィ	PERSON	ホロライブ5期生 ねぽらぼ 旧ほろふぁいぶ	企業,ホロライブ
+ゆきはならみぃ	雪花ラミィ	PERSON	ホロライブ5期生 ねぽらぼ 旧ほろふぁいぶ	企業,ホロライブ
+ももすずねね	桃鈴ねね	PERSON	ホロライブ5期生 ねぽらぼ 旧ほろふぁいぶ	企業,ホロライブ
+ししろぼたん	獅白ぼたん	PERSON	ホロライブ5期生 ねぽらぼ 旧ほろふぁいぶ	企業,ホロライブ
+ぽるか	尾丸ポルカ	PERSON	ホロライブ5期生 ねぽらぼ 旧ほろふぁいぶ	企業,ホロライブ
+おまるぽるか	尾丸ポルカ	PERSON	ホロライブ5期生 ねぽらぼ 旧ほろふぁいぶ	企業,ホロライブ
+まのあろえ	魔乃アロエ	PERSON	ホロライブ5期生 ほろふぁいぶ	企業,ホロライブ
+らぷらす	ラプラス・ダークネス	PERSON	ホロライブ6期生 秘密結社holoX	企業,ホロライブ
+らぷらすだーくねす	ラプラス・ダークネス	PERSON	ホロライブ6期生 秘密結社holoX	企業,ホロライブ
+たかねるい	鷹嶺ルイ	PERSON	ホロライブ6期生 秘密結社holoX	企業,ホロライブ
+はくいこより	博衣こより	PERSON	ホロライブ6期生 秘密結社holoX	企業,ホロライブ
+さかまたくろえ	沙花叉クロヱ	PERSON	ホロライブ6期生 秘密結社holoX	企業,ホロライブ
+かざまいろは	風真いろは	PERSON	ホロライブ6期生 秘密結社holoX	企業,ホロライブ
+あゆんだりす	アユンダ・リス	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生 	企業,ホロライブ
+あゆんだりす	Ayunda Risu	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生 	企業,ホロライブ
+むーな	ムーナ・ホシノヴァ	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生	企業,ホロライブ
+むーな	Moona Hoshinova	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生	企業,ホロライブ
+むーなほしのう゛ぁ	ムーナ・ホシノヴァ	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生	企業,ホロライブ
+あいらに	アイラニ・イオフェフティーン	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生	企業,ホロライブ
+あいらに	Airani Iofifteen	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生	企業,ホロライブ
+あいらにいおふぇふてぃーん	アイラニ・イオフェフティーン	PERSON	ホロライブ AREA15 ホロライブインドネシア1期生	企業,ホロライブ
+おりー	クレイジー・オリー	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+おりー	Kureiji Ollie	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+くれいじーおりー	クレイジー・オリー	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+あーにゃ	アーニャ・メルフィッサ	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+あーにゃ	Anya Melfissa	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+あーにゃめるふぃっさ	アーニャ・メルフィッサ	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+れいね	パヴォリア・レイネ	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+れいね	Pavolia Reine	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+ぱう゛ぉりあれいね	パヴォリア・レイネ	PERSON	ホロライブ holoro ホロライブインドネシア2期生	企業,ホロライブ
+べすてぃあ	ベスティア・ゼータ	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+べすてぃあ	Vestia Zeta	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+べすてぃあぜーた	ベスティア・ゼータ	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+かえら	カエラ・コヴァルスキア	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+かえら	Kaela Kovalskia	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+かえらこう゛ぁるすきあ	カエラ・コヴァルスキア	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+こぼかなえる	こぼ・かなえる	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+こぼかなえる	Kobo Kanaeru	PERSON	ホロライブ holoh3ro ホロライブインドネシア3期生	企業,ホロライブ
+かりおぺ	森カリオペ	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+かりおぺ	Mori Calliope	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+もりかりおぺ	森カリオペ	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+たかなしきあら	小鳥遊キアラ	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+たかなしきあら	Takanashi Kiara	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+いなにす	一伊那尓栖	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+いなにす	Ninomae Ina'nis	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+にのまえいなにす	一伊那尓栖	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+あめりあ	ワトソン・アメリア	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+あめりあ	Watson Amelia	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+わとそんあめりあ	ワトソン・アメリア	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+がうるぐら	がうる・ぐら	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+がうるぐら	Gawr Gura	PERSON	ホロライブEnglish-Myth-	企業,ホロライブ
+あいりす	IRyS	PERSON	ホロライブEnglish-Promise- 旧Project:HOPE	企業,ホロライブ
+おーろくろにー	オーロ・クロニー	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+おーろくろにー	Ouro Kronii	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+はこすべーるず	ハコス・ベールズ	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+はこすべーるず	Hakos Baelz	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+せれすふぁうな	セレス・ファウナ	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+せれすふぁうな	Ceres Fauna	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+ななしむめい	七詩ムメイ	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+ななしむめい	Nanashi Mumei	PERSON	ホロライブEnglish-Promise- 旧-Council-	企業,ホロライブ
+つくもさな	九十九佐命	PERSON	ホロライブEnglish-Council-	企業,ホロライブ
+つくもさな	Tsukumo Sana	PERSON	ホロライブEnglish-Council-	企業,ホロライブ
+しおり	シオリ・ノヴェラ	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+しおり	Shiori Novella	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+しおりのう゛ぇら	シオリ・ノヴェラ	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+びじゅー	古石ビジュー	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+びじゅー	Koseki Bijou	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+こせきびじゅー	古石ビジュー	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+ねりっさ	ネリッサ・レイヴンクロフト	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+ねりっさ	Nerissa Ravencroft	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+ねりっされいう゛んくろふと	ネリッサ・レイヴンクロフト	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+ふわわ	フワワ・アビスガード	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+ふわわ	Fuwawa Abyssgard	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+ふわわあびすがーど	フワワ・アビスガード	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+もここ	モココ・アビスガード	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+もここ	Mococo Abyssgard	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+もここあびすがーど	モココ・アビスガード	PERSON	ホロライブEnglish-Advent-	企業,ホロライブ
+えりざべす	エリザベス・ローズ・ブラッドフレイム	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+えりざべす	Elizabeth Rose Bloodflame	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+えりざべすろーずぶらっどふれいむ	エリザベス・ローズ・ブラッドフレイム	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+じじむりん	ジジ・ムリン	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+じじむりん	Gigi Murin	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+せしりあ	セシリア・イマーグリーン	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+せしりあ	Cecilia Immergreen	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+せしりあいまーぐりーん	セシリア・イマーグリーン	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+らおーら	ラオーラ・パンテーラ	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+らおーら	Raora Panthera	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+らおーらぱんてーら	ラオーラ・パンテーラ	PERSON	ホロライブEnglish-Justice-	企業,ホロライブ
+おとのせかなで	音乃瀬奏	PERSON	ホロライブ hololive DEV_IS ReGLOSS	企業,ホロライブ
+いちじょうりりか	一条莉々華	PERSON	ホロライブ hololive DEV_IS ReGLOSS	企業,ホロライブ
+らでん	儒烏風亭らでん	PERSON	ホロライブ hololive DEV_IS ReGLOSS	企業,ホロライブ
+じゅうふうていらでん	儒烏風亭らでん	PERSON	ホロライブ hololive DEV_IS ReGLOSS	企業,ホロライブ
+とどろきはじめ	轟はじめ	PERSON	ホロライブ hololive DEV_IS ReGLOSS	企業,ホロライブ
+ひおどしあお	火威青	PERSON	ホロライブ hololive DEV_IS ReGLOSS	企業,ホロライブ
+いさきりおな	響咲リオナ	PERSON	ホロライブ hololive DEV_IS FLOW GLOW	企業,ホロライブ
+こがねいにこ	虎金妃笑虎	PERSON	ホロライブ hololive DEV_IS FLOW GLOW	企業,ホロライブ
+みずみやすう	水宮枢	PERSON	ホロライブ hololive DEV_IS FLOW GLOW	企業,ホロライブ
+りんどうちはや	輪堂千速	PERSON	ホロライブ hololive DEV_IS FLOW GLOW	企業,ホロライブ
+う゛ぃう゛ぃ	綺々羅々ヴィヴィ	PERSON	ホロライブ hololive DEV_IS FLOW GLOW	企業,ホロライブ
+ききららう゛ぃう゛ぃ	綺々羅々ヴィヴィ	PERSON	ホロライブ hololive DEV_IS FLOW GLOW	企業,ホロライブ
+あちちめら	熱千めら	PERSON	ホロライブ アソビ★まわり隊!	企業,ホロライブ
+そぴあ	宙科そぴあ	PERSON	ホロライブ アソビ★まわり隊!	企業,ホロライブ
+そらしなそぴあ	宙科そぴあ	PERSON	ホロライブ アソビ★まわり隊!	企業,ホロライブ
+すずなつづり	鈴鳴つづり	PERSON	ホロライブ アソビ★まわり隊!	企業,ホロライブ
+ひゃくとう	百灯キョーコ	PERSON	ホロライブ アソビ★まわり隊!	企業,ホロライブ
+ひゃくとうきょーこ	百灯キョーコ	PERSON	ホロライブ アソビ★まわり隊!	企業,ホロライブ
+いづきみちる	井月みちる	PERSON	ホロライブ holoAN	企業,ホロライブ
+はなぞのさやか	花園さやか	PERSON	ホロライブ holoAN	企業,ホロライブ
+かぜしろゆき	風白ゆき	PERSON	ホロライブ holoAN	企業,ホロライブ
+はるさきのどか	春先のどか	PERSON	ホロライブ holoAN	企業,ホロライブ
+えーちゃん	友人A	PERSON	ホロライブ 事務所スタッフ	企業,ホロライブ
+はなさきみやび	花咲みやび	PERSON	ホロスターズ1期生	企業,ホロライブ
+かなでいづる	奏手イヅル	PERSON	ホロスターズ1期生	企業,ホロライブ
+あるらんでぃす	アルランディス	PERSON	ホロスターズ1期生	企業,ホロライブ
+りっか	律可	PERSON	ホロスターズ1期生	企業,ホロライブ
+すざく	薬師寺朱雀	PERSON	ホロスターズ1期生	企業,ホロライブ
+やくしじすざく	薬師寺朱雀	PERSON	ホロスターズ1期生	企業,ホロライブ
+きら	鏡見キラ	PERSON	ホロスターズ1期生	企業,ホロライブ
+かがみきら	鏡見キラ	PERSON	ホロスターズ1期生	企業,ホロライブ
+れだ	アステル・レダ	PERSON	ホロスターズ2期生 SunTempo	企業,ホロライブ
+あすてるれだ	アステル・レダ	PERSON	ホロスターズ2期生 SunTempo	企業,ホロライブ
+きしどうてんま	岸堂天真	PERSON	ホロスターズ2期生 SunTempo	企業,ホロライブ
+ろべる	夕刻ロベル	PERSON	ホロスターズ2期生 SunTempo	企業,ホロライブ
+ゆうこくろべる	夕刻ロベル	PERSON	ホロスターズ2期生 SunTempo	企業,ホロライブ
+かげやましえん	影山シエン	PERSON	ホロスターズ3期生 魔フィア 旧TriNero	企業,ホロライブ
+あらがみおうが	荒咬オウガ	PERSON	ホロスターズ3期生 魔フィア 旧TriNero	企業,ホロライブ
+つきしたかおる	月下カオル	PERSON	ホロスターズ3期生 TriNero	企業,ホロライブ
+やとがみふうま	夜十神封魔	PERSON	ホロスターズ UPROAR!!	企業,ホロライブ
+うつぎうゆう	羽継烏有	PERSON	ホロスターズ UPROAR!!	企業,ホロライブ
+みなせりお	水無世燐央	PERSON	ホロスターズ UPROAR!!	企業,ホロライブ
+ひざきがんま	緋崎ガンマ	PERSON	ホロスターズ UPROAR!!	企業,ホロライブ
+りーじす	リージス・アルテア	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+りーじす	Regis Altare	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+りーじすあるてあ	リージス・アルテア	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+あくせるしりおす	アクセル・シリオス	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+あくせるしりおす	Axel Syrios	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+がびす	ガビス・ベッテル	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+がびす	Gavis Bettel	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+がびすべってる	ガビス・ベッテル	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+まきな	マキナ・X・フレオン	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+まきな	Machina X Flayon	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+まきなえっくすふれおん	マキナ・X・フレオン	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+ばんぞういんはっか	万象院ハッカ	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+ばんぞういんはっか	Banzoin Hakka	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+じょうすいじしんり	定水寺シンリ	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+じょうすいじしんり	Josuiji Shinri	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+じゅらるど	ジュラルド・ティー・レクスフォード	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+じゅらるど	Jurard T Rexford	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+じゅらるどてぃーれすくふぉーど	ジュラルド・ティー・レクスフォード	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+ごーるどぶれっと	ゴールドブレット	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+ごーるどぶれっと	GOLD Bullet	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+おくたびお	オクタビオ	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+おくたびお	Octavio	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+くりむぞんるーず	クリムゾン・ルーズ	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+くりむぞんるーず	Crimzon Ruze	PERSON	ホロスターズEnglish -ARMIS-	企業,ホロライブ
+でずもんど	マグニ・デズモンド	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+でずもんど	Magni Dezmond	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+まぐにでずもんど	Magni Dezmond	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+のわーる	ノワール・ヴェスパー	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+のわーる	Noir Vesper	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
+のわーるう゛ぇすぱー	ノワール・ヴェスパー	PERSON	ホロスターズEnglish -TEMPUS-	企業,ホロライブ
