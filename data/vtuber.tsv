@@ -499,6 +499,7 @@
 う゛ぃう゛ぃおん	viviON	PROPER_NOUN	あおぎり高校運営会社	企業,あおぎり高校
 くりえいとりんぐ	株式会社クリエイトリング	PROPER_NOUN	あおぎり高校旧運営会社	企業,あおぎり高校
 あおぎりこうこう	あおぎり高校	PROPER_NOUN	あおぎり高校グループ名	企業,あおぎり高校
+あおぎりこうこう	あおぎり高校/VTuber High School	PROPER_NOUN	あおぎり高校グループ名	企業,あおぎり高校
 げーむぶ	あおぎり高校ゲーム部	PROPER_NOUN	あおぎり高校の前身	企業,あおぎり高校
 あおぎりこうこうげーむぶ	あおぎり高校ゲーム部	PROPER_NOUN	あおぎり高校の前身	企業,あおぎり高校
 たまこ	音霊魂子	PERSON	あおぎり高校 旧あおぎり高校ゲーム部	企業,あおぎり高校
@@ -522,4 +523,52 @@
 みなづきなつき	水菜月夏希	PERSON	あおぎり高校 旧あおぎり高校ゲーム部	企業,あおぎり高校
 おおしろ	大代真白	PERSON	あおぎり高校	企業,あおぎり高校
 おおしろましろ	大代真白	PERSON	あおぎり高校	企業,あおぎり高校
+
+#------------------------------------
+# ぶいすぽっ! Virtual eSports Project
+#------------------------------------
+ばーちゃるえんたーていめんと	株式会社バーチャルエンターテイメント	PROPER_NOUN	ぶいすぽっ!運営会社 株式会社Brave groupグループ企業	企業,ぶいすぽっ!
+ぶいすぽ	ぶいすぽっ! Virtual eSports Project	PROPER_NOUN	ぶいすぽっ!正式名	企業,ぶいすぽっ!
+ぶいすぽ	ぶいすぽっ!	PROPER_NOUN	ぶいすぽっ!略称	企業,ぶいすぽっ!
+ぶいすぽ	VSPO! EN	PROPER_NOUN	ぶいすぽっ!英語圏プロジェクト	企業,ぶいすぽっ!
+かがすみれ	花芽すみれ	PERSON	ぶいすぽっ! Lupinus Virtual Games	企業,ぶいすぽっ!
+かがなずな	花芽なずな	PERSON	ぶいすぽっ! Lupinus Virtual Games	企業,ぶいすぽっ!
+こがらとと	小雀とと	PERSON	ぶいすぽっ! Lupinus Virtual Games	企業,ぶいすぽっ!
+いちのせうるは	一ノ瀬うるは	PERSON	ぶいすぽっ! Lupinus Virtual Games	企業,ぶいすぽっ!
+くるみのあ	胡桃のあ	PERSON	ぶいすぽっ! Iris Black Games	企業,ぶいすぽっ!
+とさきみみ	兎咲ミミ	PERSON	ぶいすぽっ! Cattleya Regina Games	企業,ぶいすぽっ!
+あすみせな	空澄セナ	PERSON	ぶいすぽっ! Cattleya Regina Games	企業,ぶいすぽっ!
+たちばなひなの	橘ひなの	PERSON	ぶいすぽっ! Iris Black Games	企業,ぶいすぽっ!
+はなぶさりさ	英リサ	PERSON	ぶいすぽっ! Cattleya Regina Games	企業,ぶいすぽっ!
+きさらぎれん	如月れん	PERSON	ぶいすぽっ! Iris Black Games	企業,ぶいすぽっ!
+かみなりきゅぴ	神成きゅぴ	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+やくもべに	八雲べに	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+あいざわえま	藍沢エマ	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+しのみやるな	紫宮るな	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+ねこたつな	猫汰つな	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+しらなみらむね	白波らむね	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+こもりめと	小森めと	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+ゆめのあかり	夢野あかり	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+やのくろむ	夜乃くろむ	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+つむぎこかげ	紡木こかげ	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+せんどうゆうひ	千燈ゆうひ	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+ちょうやはなび	蝶屋はなび	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+あまゆいもか	甘結もか	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+ぎんじょうさいね	銀城サイネ	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+たつまきちせ	龍巻ちせ	PERSON	ぶいすぽっ!	企業,ぶいすぽっ!
+あおつきれみあ	青月レミア	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+あおつきれみあ	Remia Aotsuki	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+くろはありや	黒刃アリヤ	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+くろはありや	Arya Kuroha	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+じさきじら	地崎ジラ	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+じさきじら	Jira Jisaki	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+みくれなりん	美暮ナリン	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+みくれなりん	Narin Mikure	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+そらりりこ	ソラリリコ	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+そらりりこ	Riko Solari	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+すずかみえりす	涼上エリス	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+すずかみえりす	Eris Suzukami	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+うめぞのじゅの	梅園ジュノ	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+うめぞのじゅの	Juno Umezono	PERSON	ぶいすぽっ! VSPO! EN	企業,ぶいすぽっ!
+
 
