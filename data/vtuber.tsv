@@ -704,10 +704,75 @@
 はなゆりちゅみ	花百合ちゅみ	PERSON	ぶいぱい3期生	企業,アップランド
 やまだなのだ	やまだなのだ	PERSON	ぶいぱい3期生	企業,アップランド
 
+#--------
+# Re:AcT
+---------
+りあくと	Re:AcT	PROPER_NOUN	株式会社mikai運営のVTuber事務所 旧KAGAYAKISTARS	企業,リアクト
+りあくと	リアクト	PROPER_NOUN	株式会社mikai運営のVTuber事務所 旧KAGAYAKISTARS	企業,リアクト
+きらぼしうた	綺羅星ウタ	PERSON	Re:AcT1期生 引退	企業,リアクト
+ことみゆり	琴みゆり	PERSON	Re:AcT1期生 引退	企業,リアクト
+いぬきまとい	射貫まとい	PERSON	Re:AcT1期生 引退	企業,リアクト
+うさみゆの	宇佐美ユノ	PERSON	Re:AcT1期生 引退	企業,リアクト
+くらまつむぎ	鞍馬つむぎ	PERSON	Re:AcT1期生 引退	企業,リアクト
+さおとめぽえむ	早乙女ぽえむ	PERSON	Re:AcT1期生 引退	企業,リアクト
+はなばさみきょう	花鋏キョウ	PERSON	Re:AcT2期生 引退	企業,リアクト
+ししがみれおな	獅子神レオナ	PERSON	Re:AcT2期生	企業,リアクト
+みずがめみあ	水瓶ミア	PERSON	Re:AcT2期生	企業,リアクト
+ゆめかわかなう	夢川かなう	PERSON	Re:AcT2期生	企業,リアクト
+ふたりまい	双理マイ	PERSON	Re:AcT2期生 引退	企業,リアクト
+ただせしえる	多々星シエル	PERSON	Re:AcT2期生 引退	企業,リアクト
+てんびんはかり	天秤はかり	PERSON	Re:AcT2期生 引退	企業,リアクト
+やぎりめい	夜霧メイ	PERSON	Re:AcT2期生 引退	企業,リアクト
+うしおてぃあ	丑牡てぃあ	PERSON	Re:AcT2期生 引退	企業,リアクト
+ゆにゆにこ	ゆにゆにこ	PERSON	Re:AcT2期生 引退	企業,リアクト
+ひめくまりぼん	姫熊りぼん	PERSON	Re:AcT 旧すたーべあ! 引退	企業,リアクト
+あまかわはの	天川はの	PERSON	Re:AcT 旧すたーべあ! mikai所属	企業,リアクト
+たきがみりと	瀧上りと	PERSON	Re:AcT 引退	企業,リアクト
+くろねよみ	黒音よみ	PERSON	Re:AcT 旧モノクロあいのす。 引退	企業,リアクト
+しらねゆき	白音ゆき	PERSON	Re:AcT PolarNight 旧モノクロあいのす。	企業,リアクト
+まるもちつきみ	丸餅つきみ	PERSON	Re:AcT	企業,リアクト
+いぬもちちろる	犬望チロル	PERSON	Re:AcT 引退	企業,リアクト
+いずもめぐる	出雲めぐる	PERSON	Re:AcT 引退	企業,リアクト
+くぉりあくぅ	久檻夜くぅ	PERSON	Re:AcT 引退	企業,リアクト
+へきなあいる	碧那アイル	PERSON	Re:AcT 引退	企業,リアクト
+かざみみかん	風海みかん	PERSON	Re:AcT 引退	企業,リアクト
+つくりありあ	月紫アリア	PERSON	Re:AcT	企業,リアクト
+ねこのゆきの	猫乃ユキノ	PERSON	Re:AcT	企業,リアクト
+くらくらい	九楽ライ	PERSON	Re:AcT 引退	企業,リアクト
+すめらぎろぜ	皇ロゼ	PERSON	Re:AcT	企業,リアクト
+あやものの	彩雲のの	PERSON	Re:AcT つばさぐらでーしょん REVERBERATION	企業,リアクト
+まこうりさ	魔光リサ	PERSON	Re:AcT つばさぐらでーしょん REVERBERATION	企業,リアクト
+うすわすう	稀羽すう	PERSON	Re:AcT つばさぐらでーしょん REVERBERATION	企業,リアクト
+くくるあくれいゆ	ククルア・クレイユ	PERSON	Re:AcT Re:Mixx 引退	企業,リアクト
+おとぎねむ	音伽ねむ	PERSON	Re:AcT Re:Mixx	企業,リアクト
+くりゅういさな	紅龍イサナ	PERSON	Re:AcT Re:Mixx 引退	企業,リアクト
+びすいしゅか	美睡シュカ	PERSON	Re:AcT Re:Mixx 引退	企業,リアクト
+みこしたらん	神輿たらん	PERSON	Re:AcT Re:Mixx 引退	企業,リアクト
+あんやくもり	杏夜くもり	PERSON	Re:AcT PolarNight	企業,リアクト
+れいらさま	レイラ・サマ	PERSON	Re:AcT PolarNight	企業,リアクト
+すすはないのり	鈴花いのり	PERSON	Re:AcT Etoile	企業,リアクト
+おとはらそら	音羽奏來	PERSON	Re:AcT Etoile	企業,リアクト
+かんなぎあんな	神凪アンナ	PERSON	Re:AcT Etoile	企業,リアクト
+しらずないお	不知名イヲ	PERSON	Re:AcT Etoile	企業,リアクト
+とうみょうじかぐら	燈明寺かぐら	PERSON	Re:AcT Etoile	企業,リアクト
+ことと	kototo!	PERSON	Re:AcT	企業,リアクト
+こよいいなり	狐宵いなり	PERSON	Re:AcT Gaming1期生  VRAID	企業,リアクト
+さよしぐれ	小夜シグレ	PERSON	Re:AcT Gaming1期生 引退	企業,リアクト
+てんかあむ	天華あむ	PERSON	Re:AcT Gaming1期生 引退	企業,リアクト
+あさぎなぎさ	浅葱なぎさ	PERSON	Re:AcT Gaming2期生 引退	企業,リアクト
+しろたえとき	白妙とき	PERSON	Re:AcT Gaming2期生 VRAID	企業,リアクト
+とうわんこころ	桃犬こころ	PERSON	Re:AcT Gaming3期生 VRAID	企業,リアクト
+むすびめひまり	結萌ひまり	PERSON	Re:AcT Gaming3期生 VRAID 引退	企業,リアクト
+つゆりえる	罪揺える	PERSON	Re:AcT Gaming4期生 のわてぃふ VRAID	企業,リアクト
+あわわいるか	泡々いるか	PERSON	Re:AcT Gaming4期生 のわてぃふ VRAID	企業,リアクト
+くろのすず	黎乃鈴	PERSON	Re:AcT Gaming4期生 のわてぃふ VRAID	企業,リアクト
+るるねあねるる	ルルネア＝ネルル	PERSON	Re:AcT Gaming VRAID	企業,リアクト
+
 #-----------
 # 企業その他
 #-----------
 ひのくまらん	日ノ隈らん	PERSON	のなめぷろだくしょん 元ななしいんく 旧有閑喫茶あにまーれ	企業,のなめぷろだくしょん,ななしいんく
+かしこまり	かしこまり	PERSON	ビークエスト 旧Re:AcT	企業,ビークエスト,リアクト
 
 #------
 # 個人
@@ -715,3 +780,4 @@
 ぱとら	周防パトラ	PERSON	個人 元ななしいんく 旧ハニーストラップ	個人,ななしいんく
 すおうぱとら	周防パトラ	PERSON	個人 元ななしいんく 旧ハニーストラップ	個人,ななしいんく
 かもみかもみ	鴨見カモミ	PERSON	個人 元ななしいんく 旧ブイアパ	個人,ななしいんく
+えれきあんたれす	雷輝アンタレス	PERSON	旧Re:AcT1期生	個人,リアクト
