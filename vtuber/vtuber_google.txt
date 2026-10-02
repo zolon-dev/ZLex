@@ -676,7 +676,69 @@
 はちみつぷりん	蜂蜜ぷりん	人名	ぶいぱい3期生
 はなゆりちゅみ	花百合ちゅみ	人名	ぶいぱい3期生
 やまだなのだ	やまだなのだ	人名	ぶいぱい3期生
+りあくと	Re:AcT	固有名詞	株式会社mikai運営のVTuber事務所 旧KAGAYAKISTARS
+りあくと	リアクト	固有名詞	株式会社mikai運営のVTuber事務所 旧KAGAYAKISTARS
+きらぼしうた	綺羅星ウタ	人名	Re:AcT1期生 引退
+ことみゆり	琴みゆり	人名	Re:AcT1期生 引退
+いぬきまとい	射貫まとい	人名	Re:AcT1期生 引退
+うさみゆの	宇佐美ユノ	人名	Re:AcT1期生 引退
+くらまつむぎ	鞍馬つむぎ	人名	Re:AcT1期生 引退
+さおとめぽえむ	早乙女ぽえむ	人名	Re:AcT1期生 引退
+はなばさみきょう	花鋏キョウ	人名	Re:AcT2期生 引退
+ししがみれおな	獅子神レオナ	人名	Re:AcT2期生
+みずがめみあ	水瓶ミア	人名	Re:AcT2期生
+ゆめかわかなう	夢川かなう	人名	Re:AcT2期生
+ふたりまい	双理マイ	人名	Re:AcT2期生 引退
+ただせしえる	多々星シエル	人名	Re:AcT2期生 引退
+てんびんはかり	天秤はかり	人名	Re:AcT2期生 引退
+やぎりめい	夜霧メイ	人名	Re:AcT2期生 引退
+うしおてぃあ	丑牡てぃあ	人名	Re:AcT2期生 引退
+ゆにゆにこ	ゆにゆにこ	人名	Re:AcT2期生 引退
+ひめくまりぼん	姫熊りぼん	人名	Re:AcT 旧すたーべあ! 引退
+あまかわはの	天川はの	人名	Re:AcT 旧すたーべあ! mikai所属
+たきがみりと	瀧上りと	人名	Re:AcT 引退
+くろねよみ	黒音よみ	人名	Re:AcT 旧モノクロあいのす。 引退
+しらねゆき	白音ゆき	人名	Re:AcT PolarNight 旧モノクロあいのす。
+まるもちつきみ	丸餅つきみ	人名	Re:AcT
+いぬもちちろる	犬望チロル	人名	Re:AcT 引退
+いずもめぐる	出雲めぐる	人名	Re:AcT 引退
+くぉりあくぅ	久檻夜くぅ	人名	Re:AcT 引退
+へきなあいる	碧那アイル	人名	Re:AcT 引退
+かざみみかん	風海みかん	人名	Re:AcT 引退
+つくりありあ	月紫アリア	人名	Re:AcT
+ねこのゆきの	猫乃ユキノ	人名	Re:AcT
+くらくらい	九楽ライ	人名	Re:AcT 引退
+すめらぎろぜ	皇ロゼ	人名	Re:AcT
+あやものの	彩雲のの	人名	Re:AcT つばさぐらでーしょん REVERBERATION
+まこうりさ	魔光リサ	人名	Re:AcT つばさぐらでーしょん REVERBERATION
+うすわすう	稀羽すう	人名	Re:AcT つばさぐらでーしょん REVERBERATION
+くくるあくれいゆ	ククルア・クレイユ	人名	Re:AcT Re:Mixx 引退
+おとぎねむ	音伽ねむ	人名	Re:AcT Re:Mixx
+くりゅういさな	紅龍イサナ	人名	Re:AcT Re:Mixx 引退
+びすいしゅか	美睡シュカ	人名	Re:AcT Re:Mixx 引退
+みこしたらん	神輿たらん	人名	Re:AcT Re:Mixx 引退
+あんやくもり	杏夜くもり	人名	Re:AcT PolarNight
+れいらさま	レイラ・サマ	人名	Re:AcT PolarNight
+すすはないのり	鈴花いのり	人名	Re:AcT Etoile
+おとはらそら	音羽奏來	人名	Re:AcT Etoile
+かんなぎあんな	神凪アンナ	人名	Re:AcT Etoile
+しらずないお	不知名イヲ	人名	Re:AcT Etoile
+とうみょうじかぐら	燈明寺かぐら	人名	Re:AcT Etoile
+ことと	kototo!	人名	Re:AcT
+こよいいなり	狐宵いなり	人名	Re:AcT Gaming1期生  VRAID
+さよしぐれ	小夜シグレ	人名	Re:AcT Gaming1期生 引退
+てんかあむ	天華あむ	人名	Re:AcT Gaming1期生 引退
+あさぎなぎさ	浅葱なぎさ	人名	Re:AcT Gaming2期生 引退
+しろたえとき	白妙とき	人名	Re:AcT Gaming2期生 VRAID
+とうわんこころ	桃犬こころ	人名	Re:AcT Gaming3期生 VRAID
+むすびめひまり	結萌ひまり	人名	Re:AcT Gaming3期生 VRAID 引退
+つゆりえる	罪揺える	人名	Re:AcT Gaming4期生 のわてぃふ VRAID
+あわわいるか	泡々いるか	人名	Re:AcT Gaming4期生 のわてぃふ VRAID
+くろのすず	黎乃鈴	人名	Re:AcT Gaming4期生 のわてぃふ VRAID
+るるねあねるる	ルルネア＝ネルル	人名	Re:AcT Gaming VRAID
 ひのくまらん	日ノ隈らん	人名	のなめぷろだくしょん 元ななしいんく 旧有閑喫茶あにまーれ
+かしこまり	かしこまり	人名	ビークエスト 旧Re:AcT
 ぱとら	周防パトラ	人名	個人 元ななしいんく 旧ハニーストラップ
 すおうぱとら	周防パトラ	人名	個人 元ななしいんく 旧ハニーストラップ
 かもみかもみ	鴨見カモミ	人名	個人 元ななしいんく 旧ブイアパ
+えれきあんたれす	雷輝アンタレス	人名	旧Re:AcT1期生
