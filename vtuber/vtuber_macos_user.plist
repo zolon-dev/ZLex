@@ -4570,6 +4570,108 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>深層組</string>
+			<key>shortcut</key>
+			<string>しんそうぐみ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>DeepWeb Underground</string>
+			<key>shortcut</key>
+			<string>でぃーぷうぇぶあんだーぐらうんど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>DeepWeb Underground</string>
+			<key>shortcut</key>
+			<string>でぃーだぶるゆー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ぼくをすこらねば</string>
+			<key>shortcut</key>
+			<string>ぼくをすこらねば</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>なまほしちゃん</string>
+			<key>shortcut</key>
+			<string>なまほしちゃん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>クッコロ・セツ</string>
+			<key>shortcut</key>
+			<string>くっころせつ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>息根とめる</string>
+			<key>shortcut</key>
+			<string>いきのねとめる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>生返るるる</string>
+			<key>shortcut</key>
+			<string>いきかえるるる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>わからせちょろ</string>
+			<key>shortcut</key>
+			<string>わからせちょろ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>刺杉あいす</string>
+			<key>shortcut</key>
+			<string>さしすぎあいす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>数打あたる</string>
+			<key>shortcut</key>
+			<string>かずうちあたる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>甘神すう</string>
+			<key>shortcut</key>
+			<string>あまがみすう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>飛出ぴょこら</string>
+			<key>shortcut</key>
+			<string>とんでぴょこら</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>絶望です</string>
+			<key>shortcut</key>
+			<string>ぜつぼうです</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>正義なぐる</string>
+			<key>shortcut</key>
+			<string>せいぎなぐる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>今宵まいる</string>
+			<key>shortcut</key>
+			<string>こよいまいる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>社不寶アスティ</string>
+			<key>shortcut</key>
+			<string>しゃふだからあいすてぃ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>日ノ隈らん</string>
 			<key>shortcut</key>
 			<string>ひのくまらん</string>
@@ -4627,6 +4729,30 @@
 			<string>猫瀬乃しん</string>
 			<key>shortcut</key>
 			<string>ねこぜのしん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>小城夜みるく</string>
+			<key>shortcut</key>
+			<string>おぎやみるく</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>従井ノラ</string>
+			<key>shortcut</key>
+			<string>したがいのら</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>寧々丸</string>
+			<key>shortcut</key>
+			<string>ねねまる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>彼女なぉた</string>
+			<key>shortcut</key>
+			<string>かのめなぉた</string>
 		</dict>
 	</array>
 </plist>
