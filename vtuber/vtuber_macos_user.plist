@@ -4072,6 +4072,48 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>牛巻りこ</string>
+			<key>shortcut</key>
+			<string>うしまきりこ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>木曽あずき</string>
+			<key>shortcut</key>
+			<string>きそあずき</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>北上双葉</string>
+			<key>shortcut</key>
+			<string>きたかみふたば</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>金剛いろは</string>
+			<key>shortcut</key>
+			<string>こんごういろは</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>猫乃木もち</string>
+			<key>shortcut</key>
+			<string>ねこのきもち</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>八重沢なとり</string>
+			<key>shortcut</key>
+			<string>やえざわなとり</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>夜桜たま</string>
+			<key>shortcut</key>
+			<string>よざくらたま</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>Re:AcT</string>
 			<key>shortcut</key>
 			<string>りあくと</string>
