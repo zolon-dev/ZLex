@@ -4714,6 +4714,66 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>ウルトラリミテム</string>
+			<key>shortcut</key>
+			<string>りみてむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ウルトラリミテム</string>
+			<key>shortcut</key>
+			<string>うるとらりみてむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>UltraLMTM</string>
+			<key>shortcut</key>
+			<string>うるとらりみてむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>リイナ・コガ・フローライト</string>
+			<key>shortcut</key>
+			<string>りいな</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>リイナ・コガ・フローライト</string>
+			<key>shortcut</key>
+			<string>りいなこがふろーらいと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>雨莉まひる</string>
+			<key>shortcut</key>
+			<string>あまりまひる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>結川ユイナ</string>
+			<key>shortcut</key>
+			<string>ゆいかわゆいな</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>花酒せい</string>
+			<key>shortcut</key>
+			<string>はなさかせい</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>鷲美大笑</string>
+			<key>shortcut</key>
+			<string>わしみたいしょう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>八千八ちう</string>
+			<key>shortcut</key>
+			<string>ぱちぱちう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>日ノ隈らん</string>
 			<key>shortcut</key>
 			<string>ひのくまらん</string>
